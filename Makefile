@@ -1,0 +1,1 @@
+gcc  -o temp temp.c `pkg-config --cflags --libs libmodbus`
